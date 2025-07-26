@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components {
+  .bg-gradients {
+    @apply "bg-[linear-gradient(65deg, rgba(255, 240, 209, 1) 0%, rgba(247, 230, 230, 1) 60%)]";
+  }
+}
